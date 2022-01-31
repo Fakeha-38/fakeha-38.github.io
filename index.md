@@ -1,6 +1,6 @@
 ---
 title: Hashim Ali
-feature_text: |
+feature_text:
   ## Robotics | AI | Control Systems
   PhD student interested in neuroscience, AI & Machine Learning
 feature_image: "/assets/home-bg.jpg"
@@ -8,6 +8,13 @@ excerpt: "I am interested in how intelligent systems can autonomously learn and 
 ---
 
 I am interested in how intelligent systems can autonomously learn and develop, as well as how artificial intelligence can approximate biological intelligence. One of my long-term academic goals is to help shed light on the nature of human consciousnesses and cognition.
+
+---
+
+layout: blog
+collectionpage: posts
+
+---
 
 {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 

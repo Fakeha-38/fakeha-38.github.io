@@ -1,9 +1,10 @@
 ---
-title: About Alembic
+title: About Me
 feature_text: |
   ## Hashim Ali
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+  PhD student interested in neuroscience, AI & Machine Learning
+feature_image: "/assets/home-bg.jpg"
+excerpt: "I am interested in how intelligent systems can autonomously learn and develop, as well as how artificial intelligence can approximate biological intelligence. One of my long-term academic goals is to help shed light on the nature of human consciousnesses and cognition."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.

@@ -11,8 +11,6 @@ I am interested in how intelligent systems can autonomously learn and develop, a
 
 ---
 
-<div class="content">
-
     <article class="article  article--page  typeset">
 
       {% if paginator.posts %}
@@ -29,8 +27,6 @@ I am interested in how intelligent systems can autonomously learn and develop, a
     </article>
 
     {% include post-list.html %}
-
-  </div>
 
 ---
 

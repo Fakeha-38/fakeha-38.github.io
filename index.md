@@ -1,6 +1,6 @@
 ---
 title: Hashim Ali
-feature_text:
+feature_text: |
   ## Robotics | AI | Control Systems
   PhD student interested in neuroscience, AI & Machine Learning
 feature_image: "/assets/home-bg.jpg"

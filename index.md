@@ -11,8 +11,26 @@ I am interested in how intelligent systems can autonomously learn and develop, a
 
 ---
 
-layout: blog
-collectionpage: posts
+<div class="content">
+
+    <article class="article  article--page  typeset">
+
+      {% if paginator.posts %}
+        {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+        <h1>{{ collectiondata.title }}</h1>
+        {{ collectiondata.description | markdownify }}
+
+      {% else %}
+        <h1>{{ page.title }}</h1>
+        {{ content }}
+
+      {% endif %}
+
+    </article>
+
+    {% include post-list.html %}
+
+  </div>
 
 ---
 

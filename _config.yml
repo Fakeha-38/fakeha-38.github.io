@@ -91,7 +91,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Hashim Ali" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
@@ -129,7 +129,7 @@ navigation_header:
   - title: Search
     url: /search/
   - title: Contact
-    url: https://github.com/daviddarnes/alembic
+    url: https://github.com/Fakeha-38
 
 navigation_footer:
   - title: Created by Fakeha Iftikhar
@@ -137,9 +137,9 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/hashim-ali-1905/
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  link: https://hashim-ali.com/
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

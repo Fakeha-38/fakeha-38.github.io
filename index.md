@@ -7,7 +7,7 @@ feature_image: "/assets/home-bg.jpg"
 excerpt: "I am interested in how intelligent systems can autonomously learn and develop, as well as how artificial intelligence can approximate biological intelligence. One of my long-term academic goals is to help shed light on the nature of human consciousnesses and cognition."
 ---
 
-I am a PhD student at the University of Michigan, Dearborn. I am working with [Dr. Hafiz Malik](http://www-personal.umd.umich.edu/~hafiz/ "Dr. Hafiz Malik") at the Information Systems, Security and Forensics Lab. My research interests lie at the intersection of Robotics, Machine Learning and Media Forensics. Nowadays, I am working towards fake audio generation and detection. These fake audios include replayed audios and computer generated audios like deep fakes. 
+I am a PhD student at the University of Michigan, Dearborn. I am working with [Dr. Hafiz Malik](http://www-personal.umd.umich.edu/~hafiz/ "Dr. Hafiz Malik") [at the Information Systems, Security and Forensics Lab](https://issf.umd.umich.edu/ "at the Information Systems, Security and Forensics Lab"). My research interests lie at the intersection of Robotics, Machine Learning and Media Forensics. Nowadays, I am working towards fake audio generation and detection. These fake audios include replayed audios and computer generated audios like deep fakes. 
 
 {% include figure.html image="/assets/hashim-ali-2.jpg" alt="hashim ali picture" %}
 

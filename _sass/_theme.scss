@@ -198,7 +198,7 @@ body {
   }
   &--current {
     a {
-      color: $captionColour;
+      color: $hoverColour;
     }
   }
 }
@@ -206,7 +206,7 @@ body {
 
 // Links, icons and images
 a .icon {
-  transition: fill .1s;
+  transition: fill .2s;
   &:hover {
     fill: currentColor;
   }

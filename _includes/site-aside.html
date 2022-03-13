@@ -6,7 +6,7 @@
     </section>
 
   {% elsif page.layout == "page" or page.layout == "blog" %}
-    <section class="section  section--description">
+    <section class="section  section--category-index">
       <h3>Hashim Ali</h3>
       <p>{{ site.description }}</p>
       {% include nav-social.html %}
@@ -19,8 +19,9 @@
     </section>
     {% elsif page.layout == "home" %}
     <section class="section  section--category-index">
-      <h3>Index</h3>
-      {% include nav-categories.html %}
+      <h3>Hashim Ali</h3>
+      <p>{{ site.description }}</p>
+      {% include nav-social.html %}
     </section>
   {% endif %}
 

@@ -139,7 +139,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/hashim-ali-1905/
   GitHub: https://github.com/hashim19
   link: https://hashim-ali.com/
-  RSS: /feed.xml
+  Google Scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=YsbOLmMAAAAJ
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"

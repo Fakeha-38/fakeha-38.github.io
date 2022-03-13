@@ -1,5 +1,5 @@
 ---
-title: Hashim Ali
+title: About Me
 feature_text: |
   ## Robotics | AI | Control Systems
   PhD student interested in neuroscience, AI & Machine Learning

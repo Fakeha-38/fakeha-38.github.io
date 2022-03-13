@@ -136,7 +136,7 @@ navigation_footer:
     url: https://www.linkedin.com/in/fakeha38/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/hashim-ali-1905/{:target="_blank" rel="noopener"}
+  LinkedIn: https://www.linkedin.com/in/hashim-ali-1905/ {:target="_blank" rel="noopener"}
   GitHub: https://github.com/hashim19
   link: https://scholar.google.com/citations?hl=en&authuser=1&user=YsbOLmMAAAAJ
   Email: mailto:alhashim@umich.edu

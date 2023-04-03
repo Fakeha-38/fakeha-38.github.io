@@ -175,9 +175,7 @@ body {
 }
 .article {
   @include breakpoint(break-0) {
-    &--left {
       order: 2;
-    }
   }
 }
 

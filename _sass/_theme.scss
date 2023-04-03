@@ -154,7 +154,7 @@ body {
     transition: opacity .1s;
     .section {
       position: sticky;
-      top: 1;
+      top: 0;
     }
     &--left {
       margin-left: 0;
@@ -163,6 +163,14 @@ body {
     }
     &:hover {
       opacity: 1;
+    }
+  }
+}
+
+.aside {
+  @include breakpoint(break-0) {
+    &--left {
+      order: 1;
     }
   }
 }

@@ -159,7 +159,7 @@ body {
     &--left {
       margin-left: 0;
       margin-right: 4%;
-      order: -1;
+      order: 1;
     }
     &:hover {
       opacity: 1;
@@ -167,13 +167,6 @@ body {
   }
 }
 
-.aside {
-  @include breakpoint(break-0) {
-    &--left {
-      order: 1;
-    }
-  }
-}
 
 .section {
   margin: 0;

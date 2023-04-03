@@ -169,13 +169,15 @@ body {
 .aside {
   @include breakpoint(break-0) {
     &--left {
-      order: 1;
+      order: 1 !important;
     }
   }
 }
 .article {
   @include breakpoint(break-0) {
-      order: 2;
+    &--page {
+      order: 2 !important;
+    }
   }
 }
 

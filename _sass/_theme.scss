@@ -159,14 +159,27 @@ body {
     &--left {
       margin-left: 0;
       margin-right: 4%;
-      order: 1;
+      order: -1;
     }
     &:hover {
       opacity: 1;
     }
   }
 }
-
+.aside {
+  @include breakpoint(break-0) {
+    &--left {
+      order: 1;
+    }
+  }
+}
+.article {
+  @include breakpoint(break-0) {
+    &--left {
+      order: 2;
+    }
+  }
+}
 
 .section {
   margin: 0;

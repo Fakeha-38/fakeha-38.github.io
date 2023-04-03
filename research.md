@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: categories
+layout: research
 excerpt: "Category index"
 aside: true
 ---

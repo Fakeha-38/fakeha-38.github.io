@@ -219,7 +219,7 @@ body {
 
 // Links, icons and images
 a .icon {
-  transition: fill .2s;
+  transition: fill 2s;
   &:hover {
     fill: currentColor;
   }

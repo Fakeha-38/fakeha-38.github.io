@@ -16,14 +16,20 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 
 ### Education: {#education}
 :mortar_board: **PhD in Electrical and Computer Engineering**  
-*University of Michigan, Dearborn, MI (Expected: 2023) [A link](https://david.darn.es "A link")*
+*[University of Michigan](https://umdearborn.edu/ "University of Michigan"), Dearborn, MI (Expected: 2023)*
 
 :mortar_board: **Master of Sciences in Electrical Engineering**  
-*Lahore University of Management Sciences, Lahore, Pakistan (2019)*
+*[Lahore University of Management Sciences](https://lums.edu.pk/ "Lahore University of Management Sciences"), Lahore, Pakistan (2019)*
 
 :mortar_board: **Bsc in Mechatronics and Control Engineering**  
-*University of Engineering and Technology, Lahore, Pakistan (2016)*
+*[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"), Lahore, Pakistan (2016)*
 
 ### Experience: {#experience}
-:white_circle: **PhD in Electrical and Computer Engineering**  
-*University of Michigan, Dearborn, MI*
+:black_circle: **Graduate Student Researcher**  
+*[University of Michigan](https://umdearborn.edu/ "University of Michigan"), Dearborn, MI (2021-Present)*
+
+:black_circle: **AI Engineer**  
+*[Innowi](https://innowi.com/ "Innowi"), Lahore, Pakistan (2019-2020)*
+
+:black_circle: **AI Intern**  
+*Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"), Fukuoka, Japan (2019)*

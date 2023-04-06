@@ -372,7 +372,9 @@ select {
 
 em {
   font-size: 16px;
+  @include breakpoint(break-1) {
   padding-left: 24px;
+  }
 }
 
 a:hover:focus {

@@ -15,5 +15,14 @@ In 2016, I completed my Undergraduate degree in mechatronics and Control Enginee
 I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on developing an indoor localization algorithm for a hand-held device using Kalman Filter. In 2021, I became a PhD student at the University of Michigan. 
 
 ### Education: {#education}
-:mortar_board: PhD in Electrical and Computer Engineering
+:mortar_board: **PhD in Electrical and Computer Engineering**
+
 *University of Michigan, Dearborn, MI*
+
+:mortar_board: **Master of Sciences in Electrical Engineering**
+
+*Lahore University of Management Sciences, Lahore, Pakistan*
+
+:mortar_board: **Bsc in Mechatronics and Control Engineering**
+
+*University of Engineering and Technology, Lahore, Pakistan*

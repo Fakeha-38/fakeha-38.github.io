@@ -24,7 +24,7 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 :mortar_board: **Bsc in Mechatronics and Control Engineering**  
 *[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2016)*
 
-### Experience: {#experience}
+> ### Experience: {#experience}
 ⦿  **Graduate Student Researcher**  
 *[University of Michigan](https://umdearborn.edu/ "University of Michigan"){:target="_blank" rel="noopener"}, Dearborn, MI (2021-Present)*
 

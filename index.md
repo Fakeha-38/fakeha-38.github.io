@@ -16,7 +16,7 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 
 ### Education: {#education}
 :mortar_board: **PhD in Electrical and Computer Engineering**  
-*University of Michigan, Dearborn, MI (Expected: 2023) {#edu-para}*
+*University of Michigan, Dearborn, MI (Expected: 2023) [A link](https://david.darn.es "A link")*
 
 :mortar_board: **Master of Sciences in Electrical Engineering**  
 *Lahore University of Management Sciences, Lahore, Pakistan (2019)*

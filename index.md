@@ -28,8 +28,8 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 ⦿  **Graduate Student Researcher**  
 *[University of Michigan](https://umdearborn.edu/ "University of Michigan"), Dearborn, MI (2021-Present)*
 
-:black_circle: **AI Engineer**  
+⦿ **AI Engineer**  
 *[Innowi](https://innowi.com/ "Innowi"), Lahore, Pakistan (2019-2020)*
 
-:black_circle: **AI Intern**  
+⦿ **AI Intern**  
 *Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"), Fukuoka, Japan (2019)*

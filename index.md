@@ -16,7 +16,7 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 
 ### Education: {#education}
 :mortar_board: **PhD in Electrical and Computer Engineering**  
-*University of Michigan, Dearborn, MI (Expected: 2023)*
+*University of Michigan, Dearborn, MI (Expected: 2023)*{.edu-para}
 
 :mortar_board: **Master of Sciences in Electrical Engineering**  
 *Lahore University of Management Sciences, Lahore, Pakistan (2019)*
@@ -27,9 +27,3 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 ### Experience: {#experience}
 :white_circle: **PhD in Electrical and Computer Engineering**  
 *University of Michigan, Dearborn, MI*
-
-:mortar_board: **Master of Sciences in Electrical Engineering**  
-*Lahore University of Management Sciences, Lahore, Pakistan*
-
-:mortar_board: **Bsc in Mechatronics and Control Engineering**  
-*University of Engineering and Technology, Lahore, Pakistan*

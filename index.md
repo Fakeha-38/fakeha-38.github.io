@@ -25,7 +25,7 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 *[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"), Lahore, Pakistan (2016)*
 
 ### Experience: {#experience}
-:black_circle: **Graduate Student Researcher**  
+⦿  **Graduate Student Researcher**  
 *[University of Michigan](https://umdearborn.edu/ "University of Michigan"), Dearborn, MI (2021-Present)*
 
 :black_circle: **AI Engineer**  

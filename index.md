@@ -16,4 +16,5 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 
 ### Education:
 * PhD in Electrical and Computer Engineering
+
 *University of Michigan, Dearborn, MI*

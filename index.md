@@ -19,17 +19,17 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 *[University of Michigan](https://umdearborn.edu/ "University of Michigan"){:target="_blank" rel="noopener"}, Dearborn, MI (Expected: 2023)*
 
 :mortar_board: **Master of Sciences in Electrical Engineering**  
-*[Lahore University of Management Sciences](https://lums.edu.pk/ "Lahore University of Management Sciences"), Lahore, Pakistan (2019)*
+*[Lahore University of Management Sciences](https://lums.edu.pk/ "Lahore University of Management Sciences"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2019)*
 
 :mortar_board: **Bsc in Mechatronics and Control Engineering**  
-*[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"), Lahore, Pakistan (2016)*
+*[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2016)*
 
 ### Experience: {#experience}
 ⦿  **Graduate Student Researcher**  
-*[University of Michigan](https://umdearborn.edu/ "University of Michigan"), Dearborn, MI (2021-Present)*
+*[University of Michigan](https://umdearborn.edu/ "University of Michigan"){:target="_blank" rel="noopener"}, Dearborn, MI (2021-Present)*
 
 ⦿ **AI Engineer**  
-*[Innowi](https://innowi.com/ "Innowi"), Lahore, Pakistan (2019-2020)*
+*[Innowi](https://innowi.com/ "Innowi"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2019-2020)*
 
 ⦿ **AI Intern**  
-*Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"), Fukuoka, Japan (2019)*
+*Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"){:target="_blank" rel="noopener"}, Fukuoka, Japan (2019)*

@@ -33,3 +33,5 @@ I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on deve
 
 ⦿ **AI Intern**  
 *Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"){:target="_blank" rel="noopener"}, Fukuoka, Japan (2019)*
+
+{% include button.html text="Research Prjects" link="https://hashim-ali.com/research/" %}

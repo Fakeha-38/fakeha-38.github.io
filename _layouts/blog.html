@@ -12,7 +12,7 @@ layout: default
 
       {% if paginator.posts %}
         {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-        <img src="{{ page.feature_image }}" alt="">
+        <img src="{{ include.feature_image }}" alt="">
         <h1>{{ collectiondata.title }}</h1>
         {{ collectiondata.description | markdownify }}
 

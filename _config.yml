@@ -121,7 +121,7 @@ navigation_header:
   - title: Home
     url: /
   - title: Reasearch Projects
-    url: /elements/
+    url: /researchprojects/
   - title: News
     url: /blog/
   - title: Publications

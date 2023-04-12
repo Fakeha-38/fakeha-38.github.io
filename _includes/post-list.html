@@ -4,6 +4,7 @@
       {% for page in paginator.posts %}
         <li class="item  item--post">
           <article class="article  article--post">
+            <p>Har core text</p>
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
             {% include post-meta.html %}
             {{ page.excerpt | markdownify | truncatewords: 60 }}

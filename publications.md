@@ -1,8 +1,8 @@
 ---
-title: Research Projects
+title: Publications
 feature_text: |
-  Projects and Research Work by Hashim Ali
-feature_image: "/assets/research-projects.jpg"
+   
+feature_image: "/assets/publications.jpg"
 excerpt: "Projects and Research Work by Hashim Ali"
 ---
 

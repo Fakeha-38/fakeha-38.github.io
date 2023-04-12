@@ -121,11 +121,9 @@ navigation_header:
   - title: Home
     url: /
   - title: Reasearch Projects
-    url: /researchprojects/
-  - title: News
     url: /blog/
   - title: Publications
-    url: /categories/
+    url: /publications/
   - title: Search
     url: /search/
   - title: Contact

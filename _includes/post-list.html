@@ -6,7 +6,9 @@
           <article class="article  article--post">
             <p>Har core text</p>
             <h2><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h2>
-            <img src="{{ page.feature_image }}" alt="" width="300" height="300">
+            <div>
+              <img src="{{ page.feature_image }}" alt="" width="500" height="300">
+            </div>
             {% include post-meta.html %}
             {{ page.excerpt | markdownify | truncatewords: 60 }}
 

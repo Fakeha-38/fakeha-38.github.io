@@ -479,3 +479,28 @@ pre code {
     overflow-x: scroll;
   }
 }
+
+body.publications .content {
+  width: 100%;
+}
+p.pub-con {
+  font-size: 0.88rem;
+  font-style: italic;
+  margin-bottom: 0px;
+  color: #9a2617;
+  padding-top: 0px;
+}
+span.pub-au {
+  font-size: 0.91rem;
+  color: #808080;
+  padding: 4px;
+}
+p:has(> span.pub-au) {
+  margin-bottom: 0px;
+  height: auto;
+  padding-top: 0px;
+}
+img.pub-image {
+  object-fit: cover;
+  object-position: bottom;
+}

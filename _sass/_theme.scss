@@ -507,7 +507,7 @@ h4.pub-h4 {
   font-size: 1.1705882353rem;
 }
 
-a.pub-button {
+a.button.pub-button {
     color: #2465bf;
     background: #e5e5e5;
     font-family: Roboto, sans-serif;
@@ -520,7 +520,7 @@ a.pub-button {
     display: inline-block;
     letter-spacing: 0.1px;
 }
-a.pub-button:hover {
+a.button.pub-button:hover {
   text-decoration: underline;
   color: #2465bf;
 }

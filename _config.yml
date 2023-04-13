@@ -63,12 +63,12 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: News # Needed for Siteleaf
+    title: Research Publications # Needed for Siteleaf
     output: true
-    description: "Latest from the AI & Robotics" # The post list page content
+    description: "Have a look at my work in Robotics and AI" # The post list page content
     feature_text: |
 
-    feature_image: "/assets/blog-bg.jpg"
+    feature_image: "/assets/research-projects.jpg"
 
 # 6. Jekyll collections settings
 defaults:

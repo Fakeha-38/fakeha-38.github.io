@@ -502,6 +502,13 @@ p:has(> span.pub-au) {
 img.pub-image {
   object-fit: cover;
   object-position: bottom;
+  transition: 1s ease;
+}
+img.pub-image:hover {
+  -webkit-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  transform: scale(0.9);
+  transition: 1s ease;
 }
 h4.pub-h4 {
   font-size: 1.1705882353rem;

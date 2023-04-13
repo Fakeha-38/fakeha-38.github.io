@@ -2,6 +2,6 @@
   <img class="image pub-image" src="{{ include.image }}" alt="{{ include.alt | default: include.caption }}" {{ include.width ? include.width | prepend: 'width="' | append: '"' }} {{ include.height ? include.height | prepend: 'height="' | append: '"' }}>
   {% if include.caption %}<figcaption class="caption">{{ include.caption }}</figcaption>{% endif %}
 </figure>
-<h4>{{ include.heading | default: "Publication Title" }}</h4>
+<h4 class="pub-h4">{{ include.heading | default: "Publication Title" }}</h4>
 <p class="pub-con">{{ include.conference | default: "This paper was published in xyz conference 20xx." }}</p>
 

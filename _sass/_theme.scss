@@ -493,7 +493,6 @@ p.pub-con {
 span.pub-au {
   font-size: 0.81rem;
   color: #808080;
-  padding: 4px;
 }
 p:has(> span.pub-au) {
   margin-bottom: 0px;
@@ -503,4 +502,7 @@ p:has(> span.pub-au) {
 img.pub-image {
   object-fit: cover;
   object-position: bottom;
+}
+h4.pub-h4 {
+  font-size: 1.1705882353rem;
 }

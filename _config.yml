@@ -127,7 +127,7 @@ navigation_header:
   - title: Search
     url: /search/
   - title: Contact
-    url: https://github.com/hashim19
+    url: /contact/
 
 navigation_footer:
   - title: Created by Fakeha Iftikhar

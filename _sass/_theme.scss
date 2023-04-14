@@ -538,6 +538,7 @@ h4.pub-h4 {
   position: relative;
   display: inline;
   text-decoration: none;
+  cursor: pointer;
 
   &:after {
     content: "";
@@ -545,7 +546,7 @@ h4.pub-h4 {
     left: 0;
     bottom: -4px;
     width: 100%;
-    height: 1px;
+    height: 1.5px;
     background-color: #242e2b; 
     transform: scaleX(0);
     transform-origin: right;

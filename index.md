@@ -14,24 +14,6 @@ In 2016, I completed my Undergraduate degree in mechatronics and Control Enginee
 
 I worked as an AI engineer at Innowi from Dec 2019 to Dec 2020. I worked on developing an indoor localization algorithm for a hand-held device using Kalman Filter. In 2021, I became a PhD student at the University of Michigan. 
 
-### Education: {#education}
-:mortar_board: **PhD in Electrical and Computer Engineering**  
-*[University of Michigan](https://umdearborn.edu/ "University of Michigan"){:target="_blank" rel="noopener"}, Dearborn, MI (Expected: 2025)*
-
-:mortar_board: **Master of Sciences in Electrical Engineering**  
-*[Lahore University of Management Sciences](https://lums.edu.pk/ "Lahore University of Management Sciences"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2019)*
-
-:mortar_board: **Bsc in Mechatronics and Control Engineering**  
-*[University of Engineering and Technology](https://uet.edu.pk/ "University of Engineering and Technology"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2016)*
-
-### Experience: {#experience}
-⦿  **Graduate Student Researcher**  
-*[University of Michigan](https://umdearborn.edu/ "University of Michigan"){:target="_blank" rel="noopener"}, Dearborn, MI (2021-Present)*
-
-⦿ **AI Engineer**  
-*[Innowi](https://innowi.com/ "Innowi"){:target="_blank" rel="noopener"}, Lahore, Pakistan (2019-2020)*
-
-⦿ **AI Intern**  
-*Japan Internship Program, [AIBOD](https://aibod.com/ "AIBOD"){:target="_blank" rel="noopener"}, Fukuoka, Japan (2019)*
+{% include experience.html  %}
 
 {% include button.html text="Research Prjects" link="https://hashim-ali.com/research/" %}

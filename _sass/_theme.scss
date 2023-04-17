@@ -563,25 +563,25 @@ body.publications h3{
   padding-bottom: 40px;
 }
 
-.grid {
+.grid-2 {
   display: grid;
   gap: 10px;
   grid-template-columns: 1fr 1fr;
 }
-.main {
+.main-2 {
   background: #fcc;
 }
-.side {
+.side-2 {
   background: #fea;
 }
-.main,
-.side {
+.main-2,
+.side-2 {
   padding: 2%;
   border-radius: 10px
 }
 
 @media(max-width: 400px){
-  .grid {
+  .grid-2 {
     grid-template-columns: 1fr;
   }
 }

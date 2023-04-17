@@ -569,18 +569,20 @@ body.publications h3{
   grid-template-columns: 1fr 1fr;
 }
 .main-2 {
-  background: #fcc;
+  background: #e5e5e5;
 }
 .side-2 {
-  background: #fea;
+  background: #e5e5e5;
 }
 .main-2,
 .side-2 {
   padding: 2%;
   border-radius: 10px
 }
-
-@media(max-width: 400px){
+.edu-list li::marker {
+  list-style-type: disc;
+}
+@media(max-width: 800px){
   .grid-2 {
     grid-template-columns: 1fr;
   }

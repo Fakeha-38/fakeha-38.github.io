@@ -579,9 +579,9 @@ body.publications h3{
   padding: 2%;
   border-radius: 10px
 }
-.edu-list li::marker {
-  list-style-type: disc;
-}
+// .edu-list li::marker {
+//   list-style-type: disc;
+// }
 @media(max-width: 800px){
   .grid-2 {
     grid-template-columns: 1fr;

@@ -604,6 +604,9 @@ span.list-des a {
   color: #3498db;
   background-image: none;
 }
+span.list-des a:hover {
+  color: #19436b;
+}
 ul.exp-list li {
   list-style-position: inside;
   font-size: 16px;
@@ -611,4 +614,18 @@ ul.exp-list li {
 }
 span.list-des {
   display: block;
+}
+.main-2, .side-2 {
+  outline: 1px solid #565c5b;
+  padding: 20px 20px;
+  border: 5px solid transparent;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+}
+.main-2:hover, .side-2:hover {
+  outline: 0px solid transparent;
+  padding: 20px 20px;
+  border: 4px solid #565c5b;
+  -webkit-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }

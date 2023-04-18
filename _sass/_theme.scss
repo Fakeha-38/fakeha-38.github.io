@@ -593,15 +593,21 @@ ul.edu-list li {
   font-size: 16px;
   list-style-image: url(/assets/graduation-hat.png);
 }
-span.list-des, span.list-des a {
+span.list-des{
   font-style: italic;
   font-size: 0.8rem;
-  color: #242e2b;
+  color: #565c5b;
+}
+span.list-des a {
+  font-style: italic;
+  font-size: 0.8rem;
+  color: #3498db;
+  background-image: none;
 }
 ul.exp-list li {
   list-style-position: inside;
   font-size: 16px;
-  list-style-image: url(/assets/graduation-hat.png);
+  list-style-image: url(/assets/briefcase.png);
 }
 span.list-des {
   display: block;

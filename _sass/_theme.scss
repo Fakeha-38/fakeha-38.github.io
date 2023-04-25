@@ -596,10 +596,10 @@ ul.edu-list li {
 }
 span.list-des{
   font-style: italic;
-  font-size: 12px;
+  font-size: 11px;
   color: #565c5b;
-  @include breakpoint(break-0) {
-    font-size: 11px;
+  @include breakpoint(break-1) {
+    font-size: 12px;
     }
 }
 span.list-des a {

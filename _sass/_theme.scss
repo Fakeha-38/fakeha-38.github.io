@@ -592,21 +592,24 @@ ul.edu-list li {
   list-style-position: inside;
   font-size: 14px;
   list-style-image: url(/assets/graduation-hat.png);
+
 }
 span.list-des{
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: 12px;
   color: #565c5b;
+  @include breakpoint(break-0) {
+    font-size: 14px;
+    }
 }
 span.list-des a {
-  font-style: italic;
-  font-size: 0.7rem;
   color: #3498db;
   background-image: none;
 }
 span.list-des a:hover {
   color: #19436b;
 }
+
 ul.exp-list li {
   list-style-position: inside;
   font-size: 14px;

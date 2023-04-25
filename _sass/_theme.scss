@@ -599,12 +599,13 @@ span.list-des{
   font-size: 12px;
   color: #565c5b;
   @include breakpoint(break-0) {
-    font-size: 14px;
+    font-size: 11px;
     }
 }
 span.list-des a {
   color: #3498db;
   background-image: none;
+  text-shadow: none;
 }
 span.list-des a:hover {
   color: #19436b;

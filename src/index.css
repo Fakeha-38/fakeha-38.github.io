@@ -41,6 +41,15 @@ this color will be of text. text wil either be white or this gray: #9ca3af (tail
 .btn-underline:hover::after {
   @apply w-full;
 }
+
+/* Icon Hover Animation */
+.icon-hover {
+  @apply transition-colors duration-500;
+}
+.icon-hover:hover {
+  stroke: #f9fafb;
+}
+
 /* Global Layout */
 body {
   margin: 0 auto;
@@ -50,7 +59,7 @@ body {
 
 /* App Root Container */
 #root {
-  max-width: 1280px;
+  /* max-width: 1280px; */
   margin: auto ;
 }
 

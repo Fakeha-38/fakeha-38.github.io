@@ -1,9 +1,9 @@
 const Hero = () => {
   return (
-    <section className="h-screen flex flex-col justify-center items-center sm:items-start text-center sm:text-left text-white px-6">
+    <section className="max-w-7xl mx-auto pt-20 min-h-[80vh] flex flex-col justify-center items-center sm:items-start text-center sm:text-left text-white px-6">
       <div className="w-full max-w-3xl">
-      <p className="text-sm text-teal-400">
-      Hey there,
+        <p className="text-sm text-teal-400">
+          Hey there,
         </p>
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-gray-400">
           I'm <span className="text-white">Fakeha!</span>

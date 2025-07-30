@@ -4,7 +4,11 @@ export default {
     "./src/**/*.{js,jsx,ts,tsx}", // For React components (JSX, TSX, etc.)
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        main: '#081021',
+      }
+    },
   },
   plugins: [],
 }

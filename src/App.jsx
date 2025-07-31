@@ -12,8 +12,8 @@ function App() {
     <div className=" text-white">
       <Navbar />
       <Hero />
-      <About />
       <Skills />
+      <About />
       <Projects />
       <Contact />
       <Footer />

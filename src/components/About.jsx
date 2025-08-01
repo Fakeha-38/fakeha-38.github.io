@@ -11,7 +11,7 @@ const About = () => {
             My journey into web development began unexpectedly—after earning a degree in mechatronics engineering, I started working at a software house and was quickly captivated by the creative potential of building for the web. I loved the fusion of design, technology, and the power of websites in telling brand stories and driving engagement.
           </p>
           <p className="mb-4">
-            Since then, I’ve taught myself a wide range of technologies and frameworks, always driven by curiosity and a desire to create. From React and Tailwind CSS to Ruby on Rails and marketing integrations, I’ve worked across stacks and industries, crafting everything from lead generation sites to internal tools.
+            Since then, I’ve taught myself a wide range of technologies and frameworks. From React and Tailwind CSS to Ruby on Rails and marketing integrations, I’ve worked across stacks and industries, crafting everything from lead generation sites to internal tools.
           </p>
           <p className="mb-4">
             Outside of work, I’m either playing pickleball, training for tennis (I’m working on that backhand!), or capturing moments with my camera. I’m endlessly fascinated by how visuals and storytelling drive connection, especially through social media and digital marketing—a world I’ve had the chance to work in closely at several agencies.

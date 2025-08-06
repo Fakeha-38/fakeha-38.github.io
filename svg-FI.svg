@@ -1,0 +1,10 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+	<title>psd-FI</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Folder 1">
+		<path id="." class="s0" aria-label="."  d="m472.4 396.6l-33.6 33.5-33.5-33.5 33.5-33.6z"/>
+		<path id="FI" class="s0" aria-label="FI"  d="m27.6 431v-361.5h221.6v40.8h-177v115.6h164.3v39.7h-164.3v165.4zm286.7 0v-361.5h44.5v361.5z"/>
+	</g>
+</svg>

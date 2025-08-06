@@ -68,4 +68,4 @@ Error generating stack: `+a.message+`
             opacity: 1;
           }
         }
-      `})]})},Yh="/assets/portfolio-social-FWMzS0YD.png";function Bh(){const[T,G]=Kt.useState(!0);return Kt.useEffect(()=>{const Y=setTimeout(()=>G(!1),2700);return()=>clearTimeout(Y)},[]),y.jsxs("div",{className:"relative text-white",children:[T&&y.jsx(qh,{}),!T&&y.jsxs(y.Fragment,{children:[y.jsx(Hh,{}),y.jsx(Oh,{}),y.jsx(_h,{}),y.jsx(Dh,{}),y.jsx(Mh,{}),y.jsx(jh,{}),y.jsx(Uh,{}),y.jsx(Rh,{}),y.jsx("img",{src:Yh,alt:"social preview",style:{display:"none"}})]})]})}zh.createRoot(document.getElementById("root")).render(y.jsx(Kt.StrictMode,{children:y.jsx(Bh,{})}));
+      `})]})};function Yh(){const[T,G]=Kt.useState(!0);return Kt.useEffect(()=>{const Y=setTimeout(()=>G(!1),2700);return()=>clearTimeout(Y)},[]),y.jsxs("div",{className:"relative text-white",children:[T&&y.jsx(qh,{}),!T&&y.jsxs(y.Fragment,{children:[y.jsx(Hh,{}),y.jsx(Oh,{}),y.jsx(_h,{}),y.jsx(Dh,{}),y.jsx(Mh,{}),y.jsx(jh,{}),y.jsx(Uh,{}),y.jsx(Rh,{})]})]})}zh.createRoot(document.getElementById("root")).render(y.jsx(Kt.StrictMode,{children:y.jsx(Yh,{})}));
